@@ -11,3 +11,4 @@ Define the functions for finding the minimum in a row and for deleting the row a
 
 ### [WAITING TO BE DONE] Task 3.
 Two strings are given and a natural number k. Find k-th entery of the second string into the first.
+Define own function for founding a substring.
